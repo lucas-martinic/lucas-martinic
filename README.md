@@ -6,7 +6,7 @@ Obsessed with 3D since I was 8 years old.
 
 - **[polyfork.dev](https://polyfork.dev)**: 3,000+ free low-poly 3D models for three.js and the web, with a [catalog](https://github.com/lucas-martinic/polyfork-catalog), a [Unity connector](https://github.com/lucas-martinic/polyfork-unity-connector) and a [CLI](https://github.com/lucas-martinic/polyfork-cli).
 - **[Mario 64 MR](https://github.com/lucas-martinic/mario64mr)**: Super Mario 64 in mixed reality on Quest. Reach into the game, pick Mario up and carry him out onto your desk.
-- **[mydev.cat](https://mydev.cat)** and **[mydev.day](https://mydev.day)**: a dev-diary desktop pet, and reports of your work made from it.
+- **[mydev.cat](https://mydev.cat)**: a dev-diary desktop pet.
 - **100 Prototypes**: a series of mixed reality experiments on Quest 3.
 
 ### Open source for XR
