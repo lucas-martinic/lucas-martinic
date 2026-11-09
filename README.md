@@ -1,6 +1,6 @@
 Obsessed with 3D since I was 8 years old.
 
-[lucasmartinic.com](https://lucasmartinic.com) · [X](https://x.com/lucas_martinic) · [LinkedIn](https://www.linkedin.com/in/lucas-martinic) · [Instagram](https://www.instagram.com/lucasmartinic/) · [Unity Asset Store](https://assetstore.unity.com/publishers/47848) · [Buy me a coffee ☕](https://github.com/sponsors/lucas-martinic?frequency=one-time)
+[lucasmartinic.com](https://lucasmartinic.com) · [X](https://x.com/lucas_martinic) · [LinkedIn](https://www.linkedin.com/in/lucas-martinic) · [Instagram](https://www.instagram.com/lucasmartinic/) · [Buy me a coffee ☕](https://github.com/sponsors/lucas-martinic?frequency=one-time)
 
 ### What I'm building
 
